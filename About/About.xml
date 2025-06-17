@@ -3,14 +3,16 @@
 	<name>Drugs in Inventory</name>
 	<author>1trickPwnyta</author>
 	<packageId>drugsininventory.1trickPwnyta</packageId>
-	<modVersion>1.0.1</modVersion>
+	<modVersion>1.0.2</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>
 Have you ever noticed that when you schedule your colonists to consume drugs every number of days and also to keep one or more of that drug in their inventory, they don't keep any in their inventory? That's because colonists won't put drugs in their inventory if they are scheduled to take the drug EXCEPT immediately after ingesting the drug according to the schedule and ONLY if they can find more of that drug within 30 tiles. That's weird, right? This mod changes it so that if you tell them to keep the drug in their inventory, they will. Period.
 
 === Updates ===
+06/17/2025: Update to 1.6
 06/07/2025: Add Harmony dependency
 
 === Credits ===
